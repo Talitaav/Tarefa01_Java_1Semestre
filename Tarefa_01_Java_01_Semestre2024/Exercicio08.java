@@ -4,7 +4,7 @@ package exercicio08;
 
 public class Exercicio08 {
 
-//*8) Escreva um algoritmo para ler as dimensões de um triângulo (base e altura), calcular e escrever a área do triângulo. Dica a=b.h/2 *//
+//8) Escreva um algoritmo para ler as dimensões de um triângulo (base e altura), calcular e escrever a área do triângulo. Dica a=b.h/2
 
     public static void main(String[]args){
 
