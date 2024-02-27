@@ -1,7 +1,7 @@
 package exercicio02;
 	import java.util.Scanner;
 
-	//*2) Escreva um algoritmo para ler um valor do teclado e exibir como resposta o número antecessor.*\\
+	//2) Escreva um algoritmo para ler um valor do teclado e exibir como resposta o número antecessor.
 	
 public class Exercicio02 {
 	
