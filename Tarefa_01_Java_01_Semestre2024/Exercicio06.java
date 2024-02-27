@@ -12,7 +12,7 @@ public class Exercicio06 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int n1 = sc.nextFloat();
+		float n1 = sc.nextFloat();
 		
 		System.out.println("Digite outro valor: ");
 		
