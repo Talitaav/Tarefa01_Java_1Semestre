@@ -4,7 +4,7 @@ package exercicio06;
 
 public class Exercicio06 {
 	
-	//*6) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a divisão dos valores.*\\
+	//6) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a divisão dos valores.
 
 	public static void main(String[]args) {
 		
