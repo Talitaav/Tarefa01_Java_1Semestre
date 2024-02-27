@@ -4,7 +4,7 @@ package exercicio;
 
 public class Exercicio12 {
 	
-	//*12) Escreva um algoritmo para ler as dimensões de um circulo (raio), calcular e escrever a área do circulo. a=pi*r²*\\
+	//12) Escreva um algoritmo para ler as dimensões de um circulo (raio), calcular e escrever a área do circulo. a=pi*r²
 	
 	public static void main(String[]args) {
 		
