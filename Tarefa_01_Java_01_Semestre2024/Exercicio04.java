@@ -4,7 +4,7 @@ package exercicio04;
 	
 public class Exercicio04 {
 	
-	//*4) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a subtração dos valores.*\\
+	//4) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a subtração dos valores.
 	
 	public static void main(String[]args) {
 		
