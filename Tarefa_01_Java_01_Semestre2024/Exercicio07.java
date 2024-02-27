@@ -4,7 +4,7 @@ package exercicio07;
 
 public class Exercicio06 {
 
-    //*7) Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo. Dica a=b.h*\\
+    //7) Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo. Dica a=b.h
 
     public static void main(String[]args){
 
