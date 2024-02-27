@@ -8,16 +8,16 @@ public class Exercicio06 {
 
     public static void main(String[]args){
 
-        System.out.print("Digite um número: ");
+        System.out.print("Digite a base do retângulo: ");
 
         Scanner sc = new Scanner(System.in);
 
-        int b1 = sc.nextInt();
+        float b1 = sc.nextFloat();
 
-        System.out.print("Digite um novo número: ");
+        System.out.print("Digite a altura do retângulo: ");
 
-        int a2 = sc.nextInt();
-        int resultado = b1*a2;
+        float a2 = sc.nextFloat();
+        float resultado = b1*a2;
 
         System.out.print("A área do retângulo é: " + b1 + + a2 + + resultado);
     
