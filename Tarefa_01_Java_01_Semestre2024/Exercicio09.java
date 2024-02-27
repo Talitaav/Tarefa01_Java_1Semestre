@@ -4,7 +4,7 @@ package exercicio;
 
 public class Exercicio09 {
 	
-	//*9) Escreva um algoritmo para ler as dimensões de um quadrado (lado), calcular e escrever a área do quadrado. Dica a=l²*\\
+	//9) Escreva um algoritmo para ler as dimensões de um quadrado (lado), calcular e escrever a área do quadrado. Dica a=l²
 	
 	public static void main(String[]args) {
 		
