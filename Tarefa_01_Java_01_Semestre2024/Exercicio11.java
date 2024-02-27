@@ -11,14 +11,14 @@ public class Exercicio11 {
 		System.out.println("Digite a base maior: ");
 		Scanner sc = new Scanner(System.in);
 		
-		int maior = sc.nextInt();
+		float maior = sc.nextFloat();
 		
 		System.out.println("Digite a base menor: ");
-		int menor = sc.nextInt();
+		float menor = nextFloat();
 		
 		System.out.println("Digite a altura: ");
-		int altura = sc.nextInt();
-		int resultado = (maior+menor)*altura/2;
+		float altura = sc.nextFloat();
+		float resultado = (maior+menor)*altura/2;
 		
 		System.out.println("A área do trapézio é: " +resultado);
 	}
