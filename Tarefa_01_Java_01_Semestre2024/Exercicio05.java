@@ -4,7 +4,7 @@ package exercicio05;
 
 public class Exercicio05 {
 	
-	//*5) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a multiplicação dos valores.*\\
+	//5) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a multiplicação dos valores.
 	
 	public static void main(String[]args) {
 		
