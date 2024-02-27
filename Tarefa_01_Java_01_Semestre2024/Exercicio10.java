@@ -12,11 +12,11 @@ public class Exercicio10 {
 		System.out.println("Digite a diagonal maior do losango: ");
 		
 		Scanner sc = new Scanner(System.in);
-		int dmaior = sc.next();
+		float dmaior = sc.nextFloat();
 		
 		System.out.println("Digite a diagonal menor do losango: ");
-		int dmenor = sc.next();
-		int resultado = (dmaior*dmenor)/2;
+		float dmenor = sc.nextFloat();
+		float resultado = (dmaior*dmenor)/2;
 		
 		System.out.println("A área do losangolo é: " +resultado);
 	
