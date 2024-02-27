@@ -12,12 +12,12 @@ public class Exercicio06 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int n1 = sc.nextInt();
+		int n1 = sc.nextFloat();
 		
 		System.out.println("Digite outro valor: ");
 		
-		int n2 = sc.nextInt();
-		int resultado = n1/n2;
+		float n2 = sc.nextFloat();
+		float resultado = n1/n2;
 		
 		System.out.println("A divisão entre " + n1 + " e " + n2 + " é: " +resultado);
 	}
