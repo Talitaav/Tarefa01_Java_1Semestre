@@ -12,7 +12,7 @@ public class Exercicio12 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		double raio = sc.nextInt();
+		double raio = sc.nextDouble();
 		double area = Math.PI * raio * raio;
 
 		System.out.println("A área do circulo é: " +area);
